@@ -1,0 +1,62 @@
+{
+    "name": "Avinaba Dutta",
+    "title": "AWS DevOps Developer",
+    "location": "Raiganj, West Bengal, 733134",
+    "phone": "+91-8016941498",
+    "email": "avinabad98@gmail.com",
+    "career_summary": "AWS DevOps Developer with 3+ years Experience, skilled in CI/CD pipeline creation, Python Lambda functions, and Boto3. Proficient in Python, Java, Terraform, and AWS, with knowledge of web application development using Java, Spring Boot, HTML, CSS, and JavaScript. AWS Cloud Practitioner certified and Hashicorp Certified Terraform Associate, seeking new opportunities.",
+    "work_experience": [
+        {
+            "company": "Tata Consultancy Services (TCS)",
+            "role": "System Engineer",
+            "duration": "07 July, 2022 - Present",
+            "achievements": [
+                "Developed and maintained CI/CD pipelines to streamline deployment processes.",
+                "Created Python Lambda functions to automate various tasks, reducing manual work.",
+                "Leveraged Boto3 to manage AWS resources programmatically.",
+                "Developed automation to fast-track ticket management in ServiceNow using API.",
+                "Utilized Terraform extensively to manage AWS infrastructure.",
+                "Collaborated with cross-functional teams to integrate AWS services and optimize cloud solutions."
+            ]
+        },
+        {
+            "company": "Across The Globe (ATG)",
+            "role": "Intern",
+            "duration": "June 2021 - January 2022",
+            "achievements": [
+                "Designed and implemented a user-friendly interface for the ATG app using Flutter, resulting in a 30% increase in user engagement.",
+                "Created UI/UX designs with Flutter using the BLoC principle.",
+                "Acquired understanding of Git and GitHub for version control."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Computer Application (MCA)",
+            "institution": "Kalyani Government Engineering College",
+            "year": "2019 - 2022"
+        },
+        {
+            "degree": "Bachelor of Computer Application (BCA)",
+            "institution": "Raiganj University",
+            "year": "2016 - 2019"
+        }
+    ],
+    "skills": [
+        "AWS & Terraform",
+        "DevOps CI/CD",
+        "Python & Boto3",
+        "Java",
+        "ServiceNow API",
+        "Git & GitHub",
+        "Flutter (BLoC)"
+    ],
+    "certifications": [
+        "Hashicorp Certified Terraform Associate",
+        "AWS Cloud Practitioner",
+        "SpringBoot and Microservices (In-House)",
+        "Agile Workflow",
+        "Terraform (In-House)",
+        "Python"
+    ]
+}
