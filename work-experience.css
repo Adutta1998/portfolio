@@ -168,6 +168,8 @@
 
 @media (max-width: 480px) {
   .experience-card {
+    margin-left: .5rem;
+    width: calc(100% - .5rem);
     padding: 1rem;
   }
 
