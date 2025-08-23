@@ -11,9 +11,9 @@
   --shadow-color: rgba(15, 23, 42, 0.3);
 
   /* Typography */
-  --font-heading: "Montserrat", sans-serif;
-  --font-body: "Montserrat", sans-serif;
-  --font-mono: "Courier New", monospace;
+  --font-heading: "Source Code Pro", monospace;
+  --font-body: "Source Code Pro", monospace;
+  --font-mono: "Source Code Pro", monospace;
 
   /* Spacing */
   --section-padding: 100px 0;
@@ -1125,9 +1125,11 @@ section {
   }
 
   .social-link {
-    width: 40px;
-    height: 40px;
+    width: 60px;
+    height: 60px;
     font-size: 1rem;
+    font-size: 1.5rem;
+    text-decoration: none;
   }
 }
 
